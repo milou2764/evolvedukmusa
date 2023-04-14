@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+$basetexture models/evolveduk/banana_leaf_02
+$bumpmap models/evolveduk/banana_leaf_02_normal
+$nocull 1
+$alphatest 1
+}

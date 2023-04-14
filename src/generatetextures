@@ -1,0 +1,22 @@
+#!/bin/bash
+mkdir -p ../materials/models/evolveduk
+
+# leaf 02
+vtex2 convert -f dxt5 -o ../materials/models/evolveduk/banana_leaf_02.vtf banana_leaf_02.png
+vtex2 convert -n -o ../materials/models/evolveduk/banana_leaf_02_normal.vtf banana_leaf_02_normal.png
+
+# leaf 03
+vtex2 convert -f dxt5 -o ../materials/models/evolveduk/banana_leaf_03.vtf banana_leaf_03.png
+vtex2 convert -n -o ../materials/models/evolveduk/banana_leaf_03_normal.vtf banana_leaf_03_normal.png
+
+# bark
+vtex2 convert -f dxt1 -o ../materials/models/evolveduk/bark_peel.vtf bark_peel.png
+vtex2 convert -n -o ../materials/models/evolveduk/bark_peel_normal.vtf bark_peel_normal.png
+
+# stem
+vtex2 convert -f dxt1 -o ../materials/models/evolveduk/stem_01.vtf stem_01.png
+vtex2 convert -n -o ../materials/models/evolveduk/stem_01_normal.vtf stem_01_normal.png
+
+# plant
+vtex2 convert -f dxt1 -o ../materials/models/evolveduk/plant06.vtf plant06.png
+vtex2 convert -n -o ../materials/models/evolveduk/plant06_normal.vtf plant06_normal.png

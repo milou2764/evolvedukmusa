@@ -1,0 +1,12 @@
+{
+	"title"		:	"musa",
+	"type"		:	"model",
+	"ignore"	:
+	[
+		"*.sh",
+		".git/*",
+		".gitignore",
+		"src/*",
+		"icon.jpg"
+	]
+}

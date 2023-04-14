@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+$basetexture models/evolveduk/stem_01
+$bumpmap models/evolveduk/stem_01_normal
+}
